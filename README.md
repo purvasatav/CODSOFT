@@ -1,2 +1,7 @@
-# CODSOFT
-CodSoft Internship Tasks – January Batch B77 (Web Development)
+# Task 1 – Web Development
+CodSoft Web Development Internship Task.
+
+Technologies:
+- HTML
+- CSS
+- JavaScript
